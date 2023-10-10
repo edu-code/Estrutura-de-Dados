@@ -86,3 +86,7 @@ int main(int argc, char* argv[]) {
         PImprime(&Pilha);
     return 0;
 }
+
+// Uma pilha é uma estrutura de dados que admite remoção de elementos e inserção de novos objetos.  
+// É uma estrutura sujeita à seguinte regra de operação:  sempre que houver  uma remoção, o elemento removido 
+// é o que está na estrutura há menos tempo.
